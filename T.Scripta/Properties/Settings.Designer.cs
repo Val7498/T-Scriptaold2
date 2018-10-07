@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TRTL_WPF.Properties
+namespace T.Scripta.Properties
 {
 
 

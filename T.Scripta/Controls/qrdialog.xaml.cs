@@ -12,16 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace TRTL_WPF
+namespace T.Scripta.Controls
 {
     /// <summary>
-    /// Interaction logic for Settings.xaml
+    /// Interaction logic for qrdialog.xaml
     /// </summary>
-    public partial class Settings
+    public partial class qrdialog
     {
-        public Settings()
+        public qrdialog(Uri qr)
         {
             InitializeComponent();
+            img.Source = new BitmapImage(qr);
         }
     }
 }

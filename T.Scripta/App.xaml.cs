@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace TRTL_WPF
+namespace T.Scripta
 {
     /// <summary>
     /// Interaction logic for App.xaml
